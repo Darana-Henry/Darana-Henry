@@ -12,11 +12,12 @@ I'm a QA Manager and Automation Architect with a deep passion for delivering hig
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Henry-Darana&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Darana&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# Leetcode:
+![Leetcode Stats](https://leetcard.jacoblin.cool/onion-sandwich)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Henry-Darana&icon=5&color=0)](https://visitcount.itsvg.in)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/onion-sandwich)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
