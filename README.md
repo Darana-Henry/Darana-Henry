@@ -13,7 +13,7 @@ I'm a QA Manager and Automation Architect with a deep passion for delivering hig
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Darana&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Leetcode:
-![Leetcode Stats](https://leetcard.jacoblin.cool/onion-sandwich)
+![Leetcode Stats](https://leetcard.jacoblin.cool/onion-sandwich?ext=heatmap)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
