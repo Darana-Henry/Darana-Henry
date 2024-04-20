@@ -18,4 +18,5 @@ I'm a QA Manager and Automation Architect with a deep passion for delivering hig
 ---
 [![](https://visitcount.itsvg.in/api?id=Henry-Darana&icon=5&color=0)](https://visitcount.itsvg.in)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/onion-sandwich)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
