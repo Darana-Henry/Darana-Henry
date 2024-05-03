@@ -22,7 +22,15 @@ I'm a QA Manager and Automation Architect with a deep passion for delivering hig
 
 <a href="https://github.com/Darana-Henry/javascript-365">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Darana-Henry&repo=javascript-365&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>
+
+<a href="https://github.com/Darana-Henry/e-commerce-selenium">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Darana-Henry&repo=e-commerce-selenium&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/Darana-Henry/sql-games">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Darana-Henry&repo=sql-games&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 # Leetcode:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/onion-sandwich?ext=heatmap)
