@@ -28,8 +28,8 @@ I'm a QA Manager and Automation Architect with a deep passion for delivering hig
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Darana-Henry&repo=e-commerce-selenium&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/Darana-Henry/sql-games">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Darana-Henry&repo=sql-games&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Darana-Henry/online-travel-selenium-page-object-docker-jenkins-aws">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Darana-Henry&repo=online-travel-selenium-page-object-docker-jenkins-aws&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 # Leetcode:
