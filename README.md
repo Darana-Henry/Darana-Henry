@@ -1,4 +1,7 @@
-# 💫 Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45"/>, I'm Henry
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I'm%20Henry.%20Welcome!%20%20👨‍💻&width=800&height=100)](https://github.com/Darana-Henry)
+
+<!--# 💫 Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45"/>, I'm Henry-->
+# <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30" width="30"/> About myself 
 I'm a QA Manager and Automation Architect with a deep passion for delivering high-quality software products. With over 15 years of experience in software testing and automation, I have developed a strong foundation in both manual and automated testing. I'm an expert in designing, implementing, and maintaining test automation frameworks using various automation tools and programming languages. I lead and mentor teams to achieve their goals, always focusing on delivering the best possible product to our customers. I'm highly skilled in agile methodologies, continuous integration/continuous deployment (CI/CD) pipelines, and test management tools. I'm always exploring new technologies and methodologies to enhance our automation processes and deliver better products. I'm experienced in integrating automation into the development pipeline and have a track record of reducing testing time and costs while increasing test coverage and quality.
 
 <div align="center">
