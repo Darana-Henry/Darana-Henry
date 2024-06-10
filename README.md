@@ -19,10 +19,10 @@ I'm a QA Manager and Automation Architect with a deep passion for delivering hig
 
 |              |                |                |              |              |
 |---------------------|-----------------------|-----------------------|---------------------|---------------------|
-| **API (Rest Assured)** | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Test Strategy | Stakeholder Comm. | Budget Mgmt |
-| CI/CD Pipelines | **Mobile (Appium)** | Agile (Scrum) | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | Optimization |
-| ![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) | Negotiation | Project Management | System Design | **Web (Selenium)** |
-| Risk Assessment | Team Mentoring | Program Mgmt | **Performance (Gatling)** | ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) |
+| **Rest Assured** | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Test Strategy | Stakeholder Comm. | Budget Mgmt |
+| CI/CD Pipelines | **Appium** | Agile (Scrum) | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | Optimization |
+| ![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) | Negotiation | Project Management | System Design | **Selenium** |
+| Risk Assessment | Team Mentoring | Program Mgmt | **Gatling** | ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) |
 | **Servant Leader** | Team Mgmt | ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | Time Mgmt | Growth Mindset |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Darana-Henry&label=Profile%20views&color=lightgrey&style=flat-square&abbreviated=true" alt="Darana-Henry" /> </p>
