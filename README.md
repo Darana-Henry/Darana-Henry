@@ -2,6 +2,9 @@
 
 <!--# 💫 Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45"/>, I'm Henry-->
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30" width="30"/> About myself 
+
+<img align="left" width="175" height="175" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<img align="right" width="250" height="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 I'm a QA Manager and Automation Architect with a deep passion for delivering high-quality software products. With over 15 years of experience in software testing and automation, I have developed a strong foundation in both manual and automated testing. I'm an expert in designing, implementing, and maintaining test automation frameworks using various automation tools and programming languages. I lead and mentor teams to achieve their goals, always focusing on delivering the best possible product to our customers. I'm highly skilled in agile methodologies, continuous integration/continuous deployment (CI/CD) pipelines, and test management tools. I'm always exploring new technologies and methodologies to enhance our automation processes and deliver better products. I'm experienced in integrating automation into the development pipeline and have a track record of reducing testing time and costs while increasing test coverage and quality.
 
 <div align="center">
@@ -13,6 +16,14 @@ I'm a QA Manager and Automation Architect with a deep passion for delivering hig
 </picture>
   <br>
 </div>
+
+|              |                |                |              |              |
+|---------------------|-----------------------|-----------------------|---------------------|---------------------|
+| **API (Rest Assured)** | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Test Strategy | Stakeholder Communication | Budget Management |
+| CI/CD Pipelines | **Mobile (Appium)** | Agile Principles (Scrum) | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | Performance Optimization |
+| ![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) | Negotiation | Project Management | System Design | **Web (Selenium)** |
+| Risk Assessment | Team Mentoring | Program Management | **Performance (Gatling)** | ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) |
+| **Servant Leader** | Team Management | ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | Time Management | Growth Mindset |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Darana-Henry&label=Profile%20views&color=lightgrey&style=flat-square&abbreviated=true" alt="Darana-Henry" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Darana-Henry&theme=dark_dimmed&no-frame=true&no-bg=true" alt="Darana-Henry" /></a> </p>
