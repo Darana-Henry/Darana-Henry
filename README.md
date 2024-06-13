@@ -15,7 +15,7 @@ I'm a QA Manager and Automation Architect with a deep passion for delivering hig
 </picture>
   <br>
 </div>
-
+<!--
 |              |                |                |              |              |
 |---------------------|-----------------------|-----------------------|---------------------|---------------------|
 | **Rest Assured** | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Test Strategy | Stakeholder Comm. | Budget Mgmt |
@@ -23,8 +23,8 @@ I'm a QA Manager and Automation Architect with a deep passion for delivering hig
 | ![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) | Negotiation | Project Management | System Design | **Selenium** |
 | Risk Assessment | Team Mentoring | Program Mgmt | **Gatling** | ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) |
 | **Servant Leader** | Team Mgmt | ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | Time Mgmt | Growth Mindset |
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Darana-Henry&label=Profile%20views&color=lightgrey&style=flat-square&abbreviated=true" alt="Darana-Henry" /> </p>
+-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Darana-Henry&label=Profile%20views&color=133955&style=for-the-badge&abbreviated=true" alt="Darana-Henry" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Darana-Henry&theme=dark_dimmed&no-frame=true&no-bg=true" alt="Darana-Henry" /></a> </p>
 
 ## 🌐 Socials:
