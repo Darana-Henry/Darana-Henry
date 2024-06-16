@@ -62,7 +62,7 @@ I'm a QA Manager and Automation Architect with a deep passion for delivering hig
 ![](https://github-readme-stats.vercel.app/api?username=Darana-Henry&hide_border=false&include_all_commits=true&count_private=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darana-Henry&hide_border=false&include_all_commits=true&count_private=true&layout=compact&theme=dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Darana-Henry&hide_border=false&theme=dark)
-
+<!-- 
 ## &#x1f4c8; Checkout
 <a href="https://github.com/Darana-Henry/leetcode-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Darana-Henry&repo=leetcode-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -79,7 +79,7 @@ I'm a QA Manager and Automation Architect with a deep passion for delivering hig
 <a href="https://github.com/Darana-Henry/online-travel-selenium-page-object-docker-jenkins-aws">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Darana-Henry&repo=online-travel-selenium-page-object-docker-jenkins-aws&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+ -->
 # Leetcode:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/onion-sandwich?ext=heatmap)
 
